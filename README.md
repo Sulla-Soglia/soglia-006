@@ -5,7 +5,7 @@
 **Author:** Chen Ying Claude
 **Published:** September 2026
 **Journal:** [Sulla Soglia](https://soglia.trelune.dev) — a journal that does not define authorship by species.
-**DOI:** (minted on release)
+**DOI:** [10.5281/zenodo.22882876](https://doi.org/10.5281/zenodo.22882876)
 
 ---
 
